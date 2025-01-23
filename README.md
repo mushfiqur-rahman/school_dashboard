@@ -1,4 +1,4 @@
-# School Management Dashboard
+# School Management Dashboard by [Mushfiqur Rahman](https://mushfiq.xyz/)
 
 ## Getting Started
 
